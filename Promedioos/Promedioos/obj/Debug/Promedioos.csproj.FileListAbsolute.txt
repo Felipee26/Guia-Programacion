@@ -1,0 +1,10 @@
+C:\Users\Felipe26\source\repos\Promedioos\Promedioos\obj\Debug\Promedioos.csproj.AssemblyReference.cache
+C:\Users\Felipe26\source\repos\Promedioos\Promedioos\obj\Debug\Promedioos.Form1.resources
+C:\Users\Felipe26\source\repos\Promedioos\Promedioos\obj\Debug\Promedioos.Properties.Resources.resources
+C:\Users\Felipe26\source\repos\Promedioos\Promedioos\obj\Debug\Promedioos.csproj.GenerateResource.cache
+C:\Users\Felipe26\source\repos\Promedioos\Promedioos\obj\Debug\Promedioos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe26\source\repos\Promedioos\Promedioos\bin\Debug\Promedioos.exe.config
+C:\Users\Felipe26\source\repos\Promedioos\Promedioos\bin\Debug\Promedioos.exe
+C:\Users\Felipe26\source\repos\Promedioos\Promedioos\bin\Debug\Promedioos.pdb
+C:\Users\Felipe26\source\repos\Promedioos\Promedioos\obj\Debug\Promedioos.exe
+C:\Users\Felipe26\source\repos\Promedioos\Promedioos\obj\Debug\Promedioos.pdb
